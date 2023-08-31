@@ -1,0 +1,20 @@
+Enter the internal test 1 marks for five subjects: 99 
+82
+75
+94
+86
+Enter the internal test 2 marks for five subjects: 100 
+79
+89
+96
+91
+Enter the internal test 3 marks for five subjects: 90 
+98
+87
+84
+89
+Subject 1 Internal Mark (max. marks 20) = 19
+Subject 2 Internal Mark (max. marks 20) = 17
+Subject 3 Internal Mark (max. marks 20) = 16
+Subject 4 Internal Mark (max. marks 20) = 18
+Subject 5 Internal Mark (max. marks 20) = 17
